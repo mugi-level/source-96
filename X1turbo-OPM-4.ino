@@ -5,7 +5,7 @@
 
 // +GPIOピン節約するためにボタンを分圧で接続
 // +WiFi機能を無効に
-//  release version 1.1 at 2026.07.26
+//  release version 4.1 at 2026.07.26
 #include <Arduino.h>
 #include <FS.h>
 #include <SD.h>
